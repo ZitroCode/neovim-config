@@ -39,7 +39,7 @@
 
 ## Acerca De
 
-[![Background][screenshot]](./image/image1.jpg)
+![Neovim](./image/image1.jpg)
 
 Existen muchas configuraciones para nuestro editor de código **Neovim**, en su gran mayoría para sistemas operativos basados en **Linux** y **MacOS**, Anteriormente utilizaba **Arch Linux** como sistema operativo principal, sin embargo tuve algunos problemas con programas que utilizaba en mi vida cotidiana. Por ese motivo que regrese a utilizar **Windows 10** como sistema operativo. Entre usar diferentes editores de código como **VS Code**, **Atom**, entre otros, no me daban la sensación que me daba neovim. Así que decidí crear mi configuración anterior en **Windows** a pesar de todas las limitaciones que nos trae este sistema operativo.
 
@@ -67,7 +67,7 @@ Es necesario tener los programas y complementos que se mostraran a continuación
 
 ### Instalación
 
-**NOTA: ** Abre PowerShell como administrador. Ten consideraciónque puedes consultar la guía oficial de Neovim [aquí](https://github.com/neovim/neovim/wiki/Installing-Neovim).
+**NOTA:** Abre PowerShell como administrador. Ten consideraciónque puedes consultar la guía oficial de Neovim [aquí](https://github.com/neovim/neovim/wiki/Installing-Neovim).
 
 1. Instalar Neovim en nuestro sistema operativo.
 
