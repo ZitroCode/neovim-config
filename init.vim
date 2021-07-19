@@ -2,6 +2,9 @@
 source C:/Users/oscar/AppData/Local/nvim/general/settings.vim
 source C:/Users/oscar/AppData/Local/nvim/general/keys.vim
 
+" Syntax with Polyglot
+source C:/Users/oscar/AppData/Local/nvim/plug-config/polyglot.vim
+
 " File for Vim-Plug
 source C:/Users/oscar/AppData/Local/nvim/vim-plug/plugins.vim
 
@@ -29,10 +32,10 @@ source C:/Users/oscar/AppData/Local/nvim/plug-config/vim-closetag.vim
 
 " Themes Configuration
 " One Dark
-source C:/Users/oscar/AppData/Local/nvim/themes/onedark.vim
+" source C:/Users/oscar/AppData/Local/nvim/themes/onedark.vim
 
 " Gruvbox Dark
-" source C:/Users/oscar/AppData/Local/nvim/themes/gruvbox.vim
+source C:/Users/oscar/AppData/Local/nvim/themes/gruvbox.vim
 
 " Airline Configuration
 source C:/Users/oscar/AppData/Local/nvim/themes/airline.vim

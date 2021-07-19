@@ -36,7 +36,8 @@ else
     set signcolumn=yes
 endif
 
-syntax enable
+" syntax enable
+
 filetype on
 filetype indent on
 filetype plugin on

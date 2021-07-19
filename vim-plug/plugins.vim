@@ -17,6 +17,8 @@ Plug 'jiangmiao/auto-pairs'
 Plug 'ryanoasis/vim-devicons'
 
 " Syntax Support
+" Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+Plug 'sheerun/vimrc'
 Plug 'sheerun/vim-polyglot'
 
 " Airline 

@@ -1,2 +1,2 @@
-let g:onedark_style = 'darker'
+" let g:onedark_style = 'darker'
 colorscheme onedark
